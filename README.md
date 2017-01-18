@@ -38,3 +38,9 @@ https://github.com/hhz-hackathon-2017/IotHackathon/wiki
 Check the UI:
 
 http://hhz-photon.eu-gb.mybluemix.net/#/dashboard
+
+## Development
+
+All code repositories for this project can be found in the following GitHub organisation:
+
+https://github.com/hhz-hackathon-2017 

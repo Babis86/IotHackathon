@@ -26,3 +26,15 @@ The HHZ-Photon is an service which processes the data sensed by the *Photon Butt
 ![architecture](images/architecture.png)
 
 Based on the *Publish/Subscribe Pattern* the *Photon Buttons* are sending their data to an *topic* in the IoT Cloud. The HHZ-Photon-Server subscribes to the corresponding topics and consumes all incoming *json* events. On each incomming message the server component sends the information via *WebSockets* to the the user interface. In the UI the information is displayed in block charts. The UI is served by a lightweight web-server.
+
+## Wiki
+
+The documentation to all components can be found on the GitHub Wiki page:
+
+https://github.com/hhz-hackathon-2017/IotHackathon/wiki
+
+## User Web Interface
+
+Check the UI:
+
+http://hhz-photon.eu-gb.mybluemix.net/#/dashboard
